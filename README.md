@@ -16,5 +16,5 @@ As for the rest of us:
 - **Cloud-Based Services:** A tool like Roboflow can be very useful but if downloading a big dataset takes several hours, it becomes impractical to use. On the other hand, if you instead download and preprocess the data in the cloud and then upload the results to a service like that from the cloud, you can use it without being slowed down by your connection.
 
 ## How to use it?
-All notebooks are saved in the notebooks folder and their names describe what they do. Simply open them in Google Colab, follow the guide, provide the necessary inputs and run.
+All notebooks are saved in the notebooks folder and their names describe what they do. Simply open them in Google Colab, follow the guide, provide the necessary inputs and run.  
 :triangular_flag_on_post: **Beware:** every tool is designed to be as not destructive as possible but regardless, **Do not use any of these tools with your main account or an account with valuable data**. There could be a risk of permanently losing data, especially when modifying the code. The best practice is to create a new account for each service involved. If a tool does delete any data it will prompt you to confirm at least for the first time in each session.
